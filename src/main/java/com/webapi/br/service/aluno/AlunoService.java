@@ -22,9 +22,8 @@ public class AlunoService {
 	
 	
 	public List<AlunoResponseDTO> getAll() {
-		List<AlunoEntity> alunoEntity = _alunoRepository.findAll(); 
-		var oi = _alunoMapper.AlunoEntitysToAlunoResponseDTOs(alunoEntity);
-		return  oi;
+		List<AlunoEntity> alunoEntity = _alunoRepository.findAll();  
+		return _alunoMapper.AlunoEntitysToAlunoResponseDTOs(alunoEntity);
 	}
 	
 	public AlunoResponseDTO getById(Long id){

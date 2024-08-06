@@ -2,7 +2,7 @@ package com.webapi.br.mapper.aluno;
 
 import java.util.List;
 
-import org.mapstruct.Mapper;
+import org.mapstruct.Mapper; 
 
 import com.webapi.br.dto.aluno.AlunoRequestDTO;
 import com.webapi.br.dto.aluno.AlunoResponseDTO;
