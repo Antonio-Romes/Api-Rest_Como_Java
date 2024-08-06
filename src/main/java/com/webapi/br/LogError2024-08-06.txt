@@ -1,0 +1,6 @@
+Data: 2024-08-06 15:56
+Mensagem: No static resource api/alunos12.
+StackTrace: [Ljava.lang.StackTraceElement;@6342dccf
+
+-------------------------------
+

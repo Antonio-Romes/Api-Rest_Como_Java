@@ -1,0 +1,19 @@
+Data: 2024-08-06 17:16
+Mensagem: Request method 'POST' is not supported
+StackTrace: [Ljava.lang.StackTraceElement;@5f1dad1b
+
+-------------------------------
+
+Data: 2024-08-06 17:17
+Mensagem: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.webapi.br.dto.aluno.AlunoResponseDTO> com.webapi.br.controller.aluno.AlunoController.save(com.webapi.br.dto.aluno.AlunoRequestDTO): [Field error in object 'alunoRequestDTO' on field 'email': rejected value [antonio1@gmail.com]; codes [EmailUnico.alunoRequestDTO.email,EmailUnico.email,EmailUnico.java.lang.String,EmailUnico]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [alunoRequestDTO.email,email]; arguments []; default message [email],class com.webapi.br.entities.aluno.AlunoEntity,email]; default message [O campo Email já foi cadastrado!]] 
+StackTrace: [Ljava.lang.StackTraceElement;@2967c844
+
+-------------------------------
+
+Data: 2024-08-06 17:19
+Mensagem: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.webapi.br.dto.aluno.AlunoResponseDTO> com.webapi.br.controller.aluno.AlunoController.save(com.webapi.br.dto.aluno.AlunoRequestDTO): [Field error in object 'alunoRequestDTO' on field 'email': rejected value [antonio1@gmail.com]; codes [EmailUnico.alunoRequestDTO.email,EmailUnico.email,EmailUnico.java.lang.String,EmailUnico]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [alunoRequestDTO.email,email]; arguments []; default message [email],class com.webapi.br.entities.aluno.AlunoEntity,email]; default message [O campo Email já foi cadastrado!]] 
+StackTrace: [Ljava.lang.StackTraceElement;@52e9d012
+StackTrace: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.webapi.br.dto.aluno.AlunoResponseDTO> com.webapi.br.controller.aluno.AlunoController.save(com.webapi.br.dto.aluno.AlunoRequestDTO): [Field error in object 'alunoRequestDTO' on field 'email': rejected value [antonio1@gmail.com]; codes [EmailUnico.alunoRequestDTO.email,EmailUnico.email,EmailUnico.java.lang.String,EmailUnico]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [alunoRequestDTO.email,email]; arguments []; default message [email],class com.webapi.br.entities.aluno.AlunoEntity,email]; default message [O campo Email já foi cadastrado!]] 
+
+-------------------------------
+
