@@ -11,14 +11,16 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
+import jakarta.servlet.http.HttpServletResponse;
+
 @ControllerAdvice
 public class SaveErrorLog {
 	 @ExceptionHandler(Exception.class)
-	  public ResponseEntity<String> handleException(Exception e) {
+	  public void handleException(Exception e) {
 		 Date data = new Date();
 		 SimpleDateFormat formato = new SimpleDateFormat("yyyy-MM-dd");
 		 String dataFormatada = formato.format(data);
-	    try (FileWriter fw = new FileWriter("C:\\Users\\Antonio\\Desktop\\Java-Estudo\\webApi\\src\\main\\java\\com\\webapi\\br\\LogError\\Log\\"+dataFormatada+".txt", true);
+	    try (FileWriter fw = new FileWriter("C:\\Users\\Antonio\\Desktop\\Projetos-Java\\Api-Rest_Como_Java\\src\\main\\java\\com\\webapi\\br\\LogError\\Log\\"+dataFormatada+".txt", true);
 	         PrintWriter pw = new PrintWriter(fw)) {
 	    	  formato = new SimpleDateFormat("yyyy-MM-dd HH:mm");
 			   dataFormatada = formato.format(data);
@@ -29,7 +31,6 @@ public class SaveErrorLog {
 	      pw.println("");
 	    } catch (IOException ex) {
 	      // handle exception
-	    }
-	    return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Erro interno do servidor");
+	    } 
 	  }
 }

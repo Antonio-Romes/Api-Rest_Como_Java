@@ -20,6 +20,8 @@ public class GlobalExceptionHandler {
                         error -> error.getField(),
                         error -> error.getDefaultMessage()
                 ));
-        return new ResponseEntity<>(errors, HttpStatus.BAD_REQUEST);
+        return ResponseEntity.badRequest().body(errors); 
     }
 }
+
+
