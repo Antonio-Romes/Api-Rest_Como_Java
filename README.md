@@ -2,6 +2,19 @@
 <h1 align="center">Criação de API </h1>
 <p align="center">Este projeto utiliza o framework Spring Boot para criar uma API RESTful que permite realizar operações CRUD (Create, Read, Update, Delete) para cadastro de alunos, desenvolvida em Java. A API segue as boas práticas de desenvolvimento de APIs RESTful, com controllers responsáveis por lidar com as requisições HTTP, serviços que encapsulam a lógica de negócios, repository que lida com a persistência dos dados e entidades que representam os dados a serem persistidos, oferecendo endpoints para criar, ler, atualizar e deletar alunos, como /alunos para criar um novo aluno e /alunos/{id} para ler, atualizar ou deletar um aluno existente. A API utilizar o formato JSON para transitar os dados do cliente para o servidor e do servidor para o cliente.</p>
 
+ <div align="center">
+	 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+|  **GitHub**     |[![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/commits/master)|[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/pulls)|[![GitHub issues](https://img.shields.io/github/issues/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/issues)|[![GitHub forks](https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/network)|[![GitHub stars](https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/stargazers)|
+|  **GitHub**     |![GitHub repo size](https://img.shields.io/github/repo-size/Antonio-Romes/Api-Rest_Como_Java)|![GitHub top language](https://img.shields.io/github/languages/top/Antonio-Romes/Api-Rest_Como_Java.svg)|![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Antonio-Romes/Api-Rest_Como_Java) ![GitHub language count](https://img.shields.io/github/languages/count/Antonio-Romes/Api-Rest_Como_Java)|
+
+|
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Java](https://img.shields.io/badge/Java-v21-orange.svg) 
+
+
+
+ </div>
+ 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Spring Boot e Java</a>
 </h1>
