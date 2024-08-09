@@ -71,8 +71,8 @@ $ Na janela de Import Project from File System
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
 
-Installation
-============
+# 🛠 Installation
+ 
 
 Linux (manual installation)
 ```bash
