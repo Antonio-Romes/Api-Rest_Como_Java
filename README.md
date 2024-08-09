@@ -26,22 +26,28 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Spring Boot e Java</a>
 </h1>
-<p align="center">🚀 Usado spring boot e java para desenvolver a API.</p>
- 
- * [Installation](#installation)
- * [Tecnologias](#tecnologias)
- 
+<p align="center">🚀 Usado spring boot e java para desenvolver a API.</p> 
 
 <h4 align="center"> 
 	🚧  API 🚀 Em construção...  🚧
 </h4>
 
+Tabela dos conteudos
+=================
+  
+ * [Pré-requisitos](#pré-requisitos)
+ * [Iniciar Projeto](#iniciar-projeto)
+ * [Tecnologias](#tecnologias)
+ * [Autor](#autor)
+
+   
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [java 21](https://www.oracle.com/br/java/technologies/downloads/#java21) ou acima. 
 Além disto é bom ter um editor para trabalhar com o código como  [Spring Tools 4 para Eclipse](https://spring.io/tools) nas pode escolher o editor da sua preferência.
 
+# Iniciar Projeto
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
@@ -71,16 +77,8 @@ $ Na janela de Import Project from File System
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
 
-# Installation 🛠
- 
 
-Linux (manual installation)
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
-# 🛠 Tecnologias 
+# Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
