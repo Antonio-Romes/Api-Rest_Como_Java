@@ -29,7 +29,7 @@
 <p align="center">🚀 Usado spring boot e java para desenvolver a API.</p>
  
  * [Installation](#installation)
-[Tecnologias](#tecnologias)
+ * [Tecnologias](#tecnologias)
  
 
 <h4 align="center"> 
