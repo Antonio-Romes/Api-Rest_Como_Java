@@ -28,7 +28,7 @@
 </h1>
 <p align="center">🚀 Usado spring boot e java para desenvolver a API.</p>
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="Tecnologias">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
@@ -84,7 +84,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-  ### Autor
+  # Autor
 ---
 
  <b>Antonio Romes</b>🚀
