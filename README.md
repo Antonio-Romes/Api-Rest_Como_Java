@@ -27,13 +27,10 @@
     <a href="https://pt-br.reactjs.org/">🔗 Spring Boot e Java</a>
 </h1>
 <p align="center">🚀 Usado spring boot e java para desenvolver a API.</p>
-<p align="center">
- <a href="Tecnologias">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+ 
+	
+[Tecnologias](#tecnologias)
+ 
 
 <h4 align="center"> 
 	🚧  API 🚀 Em construção...  🚧
@@ -73,7 +70,7 @@ $ Na janela de Import Project from File System
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
-### 🛠 Tecnologias
+# 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
