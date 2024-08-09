@@ -28,7 +28,7 @@
 </h1>
 <p align="center">🚀 Usado spring boot e java para desenvolver a API.</p>
  
-	
+ * [Installation](#installation)
 [Tecnologias](#tecnologias)
  
 
@@ -70,6 +70,16 @@ $ Na janela de Import Project from File System
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
+
+Installation
+============
+
+Linux (manual installation)
+```bash
+$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+$ chmod a+x gh-md-toc
+```
+
 # 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
