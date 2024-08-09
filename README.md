@@ -4,12 +4,20 @@
 
  <div align="center">
 	 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-|  **GitHub**     |[![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/commits/master)|[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/pulls)|[![GitHub issues](https://img.shields.io/github/issues/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/issues)|[![GitHub forks](https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/network)|[![GitHub stars](https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/stargazers)|
-|  **GitHub**     |![GitHub repo size](https://img.shields.io/github/repo-size/Antonio-Romes/Api-Rest_Como_Java)|![GitHub top language](https://img.shields.io/github/languages/top/Antonio-Romes/Api-Rest_Como_Java.svg)|![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Antonio-Romes/Api-Rest_Como_Java) ![GitHub language count](https://img.shields.io/github/languages/count/Antonio-Romes/Api-Rest_Como_Java)|
+![License](https://img.shields.io/badge/license-MIT-blue.svg) 
+![Java](https://img.shields.io/badge/Java-v21-orange.svg) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Antonio-Romes/Api-Rest_Como_Java/commits/master)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Antonio-Romes/Api-Rest_Como_Java/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Antonio-Romes/Api-Rest_Como_Java/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Antonio-Romes/Api-Rest_Como_Java/network)
+[![GitHub stars](https://img.shields.io/github/stars/Antonio-Romes/Api-Rest_Como_Java)](https://github.com/Antonio-Romes/Api-Rest_Como_Java/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/Antonio-Romes/Api-Rest_Como_Java)
+![GitHub top language](https://img.shields.io/github/languages/top/Antonio-Romes/Api-Rest_Como_Java.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Antonio-Romes/Api-Rest_Como_Java)
+![GitHub language count](https://img.shields.io/github/languages/count/Antonio-Romes/Api-Rest_Como_Java)|
 
 |
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Java](https://img.shields.io/badge/Java-v21-orange.svg) 
+
 
 
 
