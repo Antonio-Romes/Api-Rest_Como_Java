@@ -93,7 +93,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <b>Antonio Romes</b>🚀
 
-Feito com por Antonio Romes 👋🏽 Entre em contato!
+Feito por Antonio Romes 👋🏽 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-romes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_romes_lima/)
