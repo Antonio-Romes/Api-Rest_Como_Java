@@ -24,7 +24,7 @@
  </div>
  
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Spring Boot e Java</a>
+    <a href="">🔗 Spring Boot e Java</a>
 </h1>
 <p align="center">🚀 Usado spring boot e java para desenvolver a API.</p> 
 
